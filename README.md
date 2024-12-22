@@ -8,7 +8,7 @@ Feel free om extra opties toe te voegen....
 |Taak| Verantwoordelijke | Link repo |
 |-----|-----|----|
 |Teamleader| Michael| / |
-|Kamer 1| Michael | |
+|Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] |
 |kamer 2| Dieter | |
 |kamer 3| ... | ... |
 |kamer 4| ... | ... |
