@@ -42,9 +42,7 @@ Output
 #### Kamer6
 Input
 - licht meting
-- temperatuur meting
-- drukknop 1 -> verhoog gewenste temperatuur + verlaag gewenste temperatuur
-- drukknop 2 -> verhoog gewenst licht + verlaag gewenst licht
+- drukknop 1 -> verhoog gewenst licht + verlaag gewenst licht
 - uitlezing gewenste waarde licht van thingspeak
 
 Output
