@@ -13,10 +13,10 @@ Feel free om extra opties toe te voegen....
 |kamer 3| ... | ... |
 |kamer 4| ... | ... |
 |kamer 5| ... | ... |
-|kamer 6| ... | ... |
+|kamer 6| Stijn | ... |
 |kamer 7| ... | ... |
 |Tuinhuis (Raspberry pi Pico) | Michael | |
-|optioneel centraal dashboard uitlezing data + bepaling gewenste waarde per kamer| | |
+|centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | |
 |optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | |
 |optioneel weerstation (esp)| | |
 
@@ -38,3 +38,25 @@ Output
 - led rood -> aanduiding werking verwarming
 - relais 2 -> verwarming element
 - versturen sensor waarden naar thingspeak
+
+#### Kamer6
+Input
+- licht meting
+- temperatuur meting
+- drukknop 1 -> verhoog gewenste temperatuur + verlaag gewenste temperatuur
+- drukknop 2 -> verhoog gewenst licht + verlaag gewenst licht
+- uitlezing gewenste waarde licht van thingspeak
+
+Output
+- controle led bij drukkop 1
+- controle RGB-led bij drukkop 2
+- versturen sensor waarden naar thingspeak
+
+#### Centrale aansturing dashboard via gsm: bot op telegram
+- lees huidige status licht alle kamers
+- lees huidige status specifieke
+- stel gewenste lichtwaarde in specifieke kamer
+- reset lichtwaarde specifieke kamer
+- helpfunctie
+
+
