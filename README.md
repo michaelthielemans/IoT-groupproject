@@ -10,7 +10,7 @@ Feel free om extra opties toe te voegen....
 |Teamleader| Michael| / |
 |Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] |
 |kamer 2| Dieter | |
-|kamer 3| ... | ... |
+|kamer 3| Wim | https://github.com/r0913559/ITessentials.git |
 |kamer 4| ... | ... |
 |kamer 5| ... | ... |
 |kamer 6| Stijn | ... |
@@ -38,6 +38,14 @@ Output
 - led rood -> aanduiding werking verwarming
 - relais 2 -> verwarming element
 - versturen sensor waarden naar thingspeak
+
+#### Kamer3
+- licht meeting
+- led rood -> meer licht indien niet voldaan aan doel lux waardes
+- button 1 & 2 -> verhogen/verlagen doel lux
+- step motor -> simulatie openen/dicht gordijnen. Links of rechts afhankelijk van te weinig of teveel lux
+- lcd -> tonen huidige lux, doel lux , status led
+- subscription based mqtt
 
 #### Kamer6
 Input
