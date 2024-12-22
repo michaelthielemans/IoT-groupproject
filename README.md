@@ -1,4 +1,4 @@
-# IoT-groupproject
+# IoT Groups Project
 
 ## Taken verdeling
 
