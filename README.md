@@ -9,7 +9,7 @@ Feel free om extra opties toe te voegen....
 |-----|-----|----|
 |Teamleader| Michael| / |
 |Kamer 1| Michael | |
-|kamer 2| ... | ... |
+|kamer 2| Dieter | |
 |kamer 3| ... | ... |
 |kamer 4| ... | ... |
 |kamer 5| ... | ... |
