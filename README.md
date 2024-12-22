@@ -42,12 +42,11 @@ Output
 #### Kamer6
 Input
 - licht meting
-- drukknop 1 -> verhoog gewenst licht + verlaag gewenst licht
+- drukknop -> verhoog gewenst licht + verlaag gewenst licht
 - uitlezing gewenste waarde licht van thingspeak
 
 Output
-- controle led bij drukkop 1
-- controle RGB-led bij drukkop 2
+- controle led bij drukkop
 - versturen sensor waarden naar thingspeak
 
 #### Centrale aansturing dashboard via gsm: bot op telegram
