@@ -11,9 +11,9 @@
 |kamer 5| |
 |kamer 6| |
 |kamer 7| |
-|optioneel centrale bediening uitlezing data ||
-|optionneel centrale bediening aansturing door klok||
-|Optioneel Tuin||
+|optioneel centraal dashboard uitlezing data + bepaling gewenste waarde per kamer||
+|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)||
+|Optioneel Tuinhuis||
 |optioneel weerstation (esp)||
 
 
@@ -29,3 +29,7 @@ Input
 
 Output
 - Controle led bij drukkop
+- led blauw -> aanduiden werking ventilator
+- relais 1 -> ventilator
+- led rood -> aanduiding werking verwarming
+- relais 2 -> verwarming element
