@@ -3,7 +3,7 @@
 ## Taken verdeling
 
 |Taak| Verantwoordelijke |
-|-----|-----|---|
+|-----|-----|
 |Kamer1 | Michael |
 |kamer 2| |
 |kamer 3| |
@@ -15,7 +15,6 @@
 |optionneel centrale bediening aansturing door klok||
 |Optioneel Tuin||
 |optioneel weerstation (esp)||
-|
 
 
 ## Gedetaileerde uitwerking per taak
