@@ -39,6 +39,15 @@ Output
 - relais 2 -> verwarming element
 - versturen sensor waarden naar thingspeak
 
+#### Kamer2
+- Lux meeting
+- Led brand bij te lage lux
+- step motor draait voor het sluiten van de rolluiken als het donker is.
+- Knop 1 = verlagen lux
+- Knop 2 = verhogen lux
+- Lux meting naar channel "Waardes" (MQTT)
+- Gewenste lux waarde naar channel "GewensteWaardes" (MQTT)
+
 #### Kamer3
 - licht meeting
 - led rood -> meer licht indien niet voldaan aan doel lux waardes
