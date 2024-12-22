@@ -2,19 +2,22 @@
 
 ## Taken verdeling
 
-|Taak| Verantwoordelijke |
-|-----|-----|
-|Kamer1 | Michael |
-|kamer 2| |
-|kamer 3| |
-|kamer 4| |
-|kamer 5| |
-|kamer 6| |
-|kamer 7| |
-|optioneel centraal dashboard uitlezing data + bepaling gewenste waarde per kamer||
-|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)||
-|Optioneel Tuinhuis||
-|optioneel weerstation (esp)||
+Vul deze lijst verder aan...
+Feel free om extra opties to te voegen....
+
+|Taak| Verantwoordelijke | Link repo |
+|-----|-----|----|
+|Kamer 1 | Michael | |
+|kamer 2| ... | ... |
+|kamer 3| ... | ... |
+|kamer 4| ... | ... |
+|kamer 5| ... | ... |
+|kamer 6| ... | ... |
+|kamer 7| ... | ... |
+|optioneel centraal dashboard uitlezing data + bepaling gewenste waarde per kamer| | |
+|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | |
+|Optioneel Tuinhuis (Raspberry pi Pico) | Michael | |
+|optioneel weerstation (esp)| | |
 
 
 ## Gedetaileerde uitwerking per taak
