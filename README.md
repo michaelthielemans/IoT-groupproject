@@ -21,7 +21,7 @@ Feel free om extra opties toe te voegen....
 |optioneel weerstation (esp)| | |
 
 
-## Beschrijving componenten per taak
+## Beschrijving functies en componenten per taak
 #### Kamer1
 Input
 - Temperatuur meting
