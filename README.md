@@ -14,7 +14,7 @@ Feel free om extra opties toe te voegen....
 |kamer 4| ... | ... |
 |kamer 5| ... | ... |
 |kamer 6| Stijn | ... |
-|kamer 7| ... | ... |
+|kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep |
 |Tuinhuis (Raspberry pi Pico) | Michael | |
 |centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | |
 |optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | |
@@ -64,6 +64,14 @@ Input
 Output
 - controle led bij drukkop
 - versturen sensor waarden naar thingspeak
+
+#### Kamer7
+Input
+- licht meting
+
+Output
+- Weergeven waardes meting
+
 
 #### Centrale aansturing dashboard via gsm: bot op telegram
 - lees huidige status licht alle kamers
