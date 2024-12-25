@@ -12,7 +12,7 @@ Feel free om extra opties toe te voegen....
 |kamer 2| Dieter | |
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git |
 |kamer 4| ... | ... |
-|kamer 5| ... | ... |
+|kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 |
 |kamer 6| Stijn | ... |
 |kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep |
 |Tuinhuis (Raspberry pi Pico) | Michael | |
