@@ -40,12 +40,15 @@ Output
 - versturen sensor waarden naar thingspeak
 
 #### Kamer2
-- Lux meeting
-- Led brand bij te lage lux
-- Knop 1 = verlagen lux
-- Knop 2 = verhogen lux
-- Lux meting naar channel "Waardes" (MQTT)
-- Gewenste lux waarde naar channel "GewensteWaardes" (MQTT)
+Input:
+- Luxmeting door BH1750-sensor.
+- Knop 1: Verlagen van de gewenste luxwaarde.
+- Knop 2: Verhogen van de gewenste luxwaarde.
+  
+Output:
+- LED brandt bij te lage luxwaarde (onder de ingestelde drempel).
+- Luxmetingen worden gepubliceerd naar het MQTT-kanaal "Waardes".
+- Gewenste luxwaarden worden gepubliceerd naar het MQTT-kanaal "GewensteWaardes".
 
 #### Kamer3
 - licht meeting
