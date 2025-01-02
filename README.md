@@ -71,9 +71,13 @@ Output
 #### Kamer7
 Input
 - licht meting
+- Drukknoppen voor led feller of minder te laten branden (5 stappen) 0 - 100
+- Drukknop led aan/uit
+- Bij opstart gaat hij laatste waarde op thingspeak halen.
 
 Output
 - Weergeven waardes meting
+- Gewenste waardes naar Thingspeak (qua licht van led)
 
 
 #### Centrale aansturing dashboard via gsm: bot op telegram
