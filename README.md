@@ -13,7 +13,7 @@ Feel free om extra opties toe te voegen....
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git |
 |kamer 4| ... | ... |
 |kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 |
-|kamer 6| Stijn | ... |
+|kamer 6| Stijn | [...](https://github.com/SDBeu/pi_scripts) |
 |kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep |
 |kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels |
 |Tuinhuis (Raspberry pi Pico) | Michael | |
