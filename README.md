@@ -1,9 +1,6 @@
 # IoT Groups Project
 
-## Taken verdeling
-
-Vul deze lijst verder aan...
-Feel free om extra opties toe te voegen....
+## Taak verdeling
 
 |Taak| Verantwoordelijke | Link repo |
 |-----|-----|----|
@@ -22,6 +19,17 @@ Feel free om extra opties toe te voegen....
 |optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | |
 |optioneel weerstation (esp)| | |
 
+## Algemene beschrijving project
+
+Ons project richt zich op het ontwerpen en implementeren van een home-automationsysteem. De opstelling omvat een woning met acht kamers, een kinderkamer en een tuinhuis. Elke ruimte is uitgerust met een microprocessor (orangepi) of microcontroller (raspberry pi pico) die verantwoordelijk is voor de aansturing van actieve componenten en de uitlezing van sensoren in die specifieke kamer.
+
+Alle gemeten waarden in de verschillende kamers worden automatisch geüpload naar een cloud-dashboard. Voor dit project maken we gebruik van het ThingSpeak-platform, waarbij elke kamer een eigen kanaal heeft. Het protocol om gegevens te verzenden en ontvangen hiervoor is MQTT.
+
+Naast de gemeten sensorgegevens wordt er ook een gewenste waarde per kamer naar ThingSpeak geüpload. Deze gewenste waarde kan op verschillende manieren worden ingesteld: via drukknoppen in de kamer zelf of via een Telegram-bot voor externe bediening.
+
+De microcontroller in elke kamer ontvangt de gewenste waarde via een subscription van het corresponderende kanaal op ThingSpeak. Vervolgens stuurt de microcontroller de actieve componenten, zoals LED-lampen of verwarmingsweerstanden, aan om de ingestelde waarde te bereiken.
+
+De specifieke functies per kamer worden hieronder in detail beschreven. De uitwerking hiervan is terug te vinden in de verschillende github repositories.( zie tabel)
 
 ## Beschrijving functies en componenten per taak
 #### Kamer1
