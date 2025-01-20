@@ -2,22 +2,22 @@
 
 ## Taak verdeling
 
-|Taak| Verantwoordelijke | Link repo |
-|-----|-----|----|
-|Teamleader| Michael| / |
-|Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] |
-|kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git |
-|kamer 3| Wim | https://github.com/r0913559/ITessentials.git |
-|kamer 4| ... | ... |
-|kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 |
-|kamer 6| Stijn | https://github.com/SDBeu/pi_scripts |
-|kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep |
-|kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels |
-|Tuinhuis (Raspberry pi Pico) | Michael | |
-|Kinderkamer (Raspberry pi Pico) | Niels | Weklampje verbonden met NTP server + temperatuurmeting met weergave op LCD |
-|centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | |
-|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | |
-|optioneel weerstation (esp)| | |
+|Taak| Verantwoordelijke | Link repo | status |
+|-----|-----|----|----|
+|Teamleader| Michael| / | / |
+|Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] | - |
+|kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git | - |
+|kamer 3| Wim | https://github.com/r0913559/ITessentials.git | - |
+|kamer 4| ... | ... | - |
+|kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 | - |
+|kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | - |
+|kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | - |
+|kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels | - |
+|Tuinhuis (Raspberry pi Pico) | Michael | | - |
+|Kinderkamer (Raspberry pi Pico) | Niels | Weklampje verbonden met NTP server + temperatuurmeting met weergave op LCD | - |
+|centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | | - |
+|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | | - |
+|optioneel weerstation (esp)| | | - |
 
 ## Algemene beschrijving project
 
@@ -31,23 +31,24 @@ De microcontroller in elke kamer ontvangt de gewenste waarde via een subscriptio
 
 De specifieke functies per kamer worden hieronder in detail beschreven. De uitwerking hiervan is terug te vinden in de verschillende github repositories.( zie tabel)
 
-## Beschrijving functies en componenten per taak
+## Beschrijving functies en componenten per kamer
 #### Kamer1
-Input
+Input:
 - Temperatuur meting
 - Luchtdruk meting
 - afstands meting
 - drukknop 1 -> verhoog gewenste temperatuur
 - drukkop 2 -> verlaag gewenste temperatuur
-- uitlezing gewenste waarde van thingspeak
+- bewegingsmelder
 
-Output
+Output:
 - Controle led bij drukkop
+- Controle led bij verzenden van data
+- led indicator bij beweging
 - led blauw -> aanduiden werking ventilator
 - relais 1 -> ventilator
-- led rood -> aanduiding werking verwarming
 - relais 2 -> verwarming element
-- versturen sensor waarden naar thingspeak
+- versturen van gemeten waarden naar thingspeak
 
 #### Kamer2
 Input:
