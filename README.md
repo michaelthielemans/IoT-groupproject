@@ -10,12 +10,12 @@
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git | - |
 |kamer 4| ... | ... | - |
 |kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 | - |
-|kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | - |
+|kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | done |
 |kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | - |
 |kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels | - |
 |Tuinhuis (Raspberry pi Pico) | Michael | | - |
 |Kinderkamer (Raspberry pi Pico) | Niels | Weklampje verbonden met NTP server + temperatuurmeting met weergave op LCD | - |
-|centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | | - |
+|centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | | done |
 |optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | | - |
 |optioneel weerstation (esp)| | | - |
 
