@@ -8,7 +8,7 @@
 |Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] | - |
 |kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git | - |
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git | - |
-|kamer 4| ... | ... | - |
+|kamer 4| Ahmad | ... | - |
 |kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 | - |
 |kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | done |
 |kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | - |
