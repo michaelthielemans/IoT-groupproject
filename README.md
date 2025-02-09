@@ -5,7 +5,7 @@
 |Taak| Verantwoordelijke | Link repo | status |
 |-----|-----|----|----|
 |Teamleader| Michael| / | / |
-|Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] | - |
+|Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] | Done |
 |kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git | - |
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git | - |
 |kamer 4| Ahmad | ... | - |
@@ -13,11 +13,10 @@
 |kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | done |
 |kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | - |
 |kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels | - |
-|Tuinhuis (Raspberry pi Pico) | Michael | | - |
+|Centrale aansturing knoppen (Raspberry pi) | Michael | | Done |
 |Kinderkamer (Raspberry pi Pico) | Niels | Weklampje verbonden met NTP server + temperatuurmeting met weergave op LCD | - |
 |centraal dashboard uitlezing licht: data + bepaling gewenste waarde per kamer met telegrambot op gsm-toestel| Stijn | | done |
-|optioneel centrale bediening aansturing door klok (bv automatische rolluit bediening)| | | - |
-|optioneel weerstation (esp)| | | - |
+
 
 ## Algemene beschrijving project
 
