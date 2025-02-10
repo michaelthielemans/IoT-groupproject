@@ -11,7 +11,7 @@
 |kamer 4| Ahmad | ... | - |
 |kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 | - |
 |kamer 6| Stijn | https://github.com/SDBeu/pi_scripts | done |
-|kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | - |
+|kamer 7| Kristof | https://github.com/Ultraluminary/IoT_groep | Done |
 |kamer 8| Niels | https://github.com/NielsJanssen90/IoT-Kamer-Niels | - |
 |Centrale aansturing knoppen (Raspberry pi) | Michael | | Done |
 |Kinderkamer (Raspberry pi Pico) | Niels | Weklampje verbonden met NTP server + temperatuurmeting met weergave op LCD | - |
