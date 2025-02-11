@@ -6,7 +6,7 @@
 |-----|-----|----|----|
 |Teamleader| Michael| / | / |
 |Kamer 1| Michael | [https://github.com/michaelthielemans/iotgroupproject-kamer1] | Done |
-|kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git | - |
+|kamer 2| Dieter | https://github.com/dieterverbeek/IoT2024-2025.git | Done |
 |kamer 3| Wim | https://github.com/r0913559/ITessentials.git | - |
 |kamer 4| Ahmad | ... | - |
 |kamer 5| Julene | https://github.com/JuleneW/IOT_Project_Room_5 | - |
